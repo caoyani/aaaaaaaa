@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hsbc</groupId>
-	<artifactId>chatbot</artifactId>
+	<artifactId>cloud-chatbot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>chatbot</name>
+	<name>cloud-chatbot</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
